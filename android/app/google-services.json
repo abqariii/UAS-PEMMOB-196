@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006766220870",
+    "project_id": "uas-pemmob-aa-168-196",
+    "storage_bucket": "uas-pemmob-aa-168-196.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006766220870:android:57d2c5a4395e2fa678cc47",
+        "android_client_info": {
+          "package_name": "com.example.bencana_alam_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBfzO0vPYyrHMDVah7drgnt6I_blXgThs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
