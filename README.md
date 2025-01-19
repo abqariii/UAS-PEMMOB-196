@@ -1,4 +1,4 @@
-# bencana_alam_client
+# aplikasi pendaftaran aslab informatika ITENAS
 
 A new Flutter project.
 
